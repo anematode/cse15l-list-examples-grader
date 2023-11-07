@@ -21,11 +21,11 @@ echo 'Finished cloning'
 #        ├─ grade.sh
 #        ├─ grading-area ┐
 #        │               ├─ TestListExamples.java
-#        │		         └─ ListExamples.java
+#        │               └─ ListExamples.java
 #        │
 #        ├─ student-submission ┐
-#        │      			   ├─ .git
-#        │         			   └─ ListExamples.java
+#        │                     ├─ .git
+#        │                     └─ ListExamples.java
 #        │
 #        ├─ lib ┐
 #        │      ├─ hamcrest.jar
